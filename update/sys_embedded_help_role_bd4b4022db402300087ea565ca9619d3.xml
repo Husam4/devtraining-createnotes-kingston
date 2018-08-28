@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role display_value="rm_product_admin" name="rm_product_admin">2e5c07117f0000017e82d18303fa7cca</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2018-08-23 13:50:14</sys_created_on>
+        <sys_id>bd4b4022db402300087ea565ca9619d3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>2e5c07117f0000017e82d18303fa7cca</sys_name>
+        <sys_package display_value="CreateNotes" source="x_snc_createnotes">df5fd9a5090232007f44e1046c8ff69f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</sys_scope>
+        <sys_update_name>sys_embedded_help_role_bd4b4022db402300087ea565ca9619d3</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2018-08-23 13:50:14</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
